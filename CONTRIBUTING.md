@@ -42,7 +42,7 @@ This paragraph is subject to change as time goes on.
   * Ask any security related questions, and I'll be more than happy to answer them.  
   * Make a suggestion, I'm open to reworking the current code, if it can get more secure by doing so.  
   * It's optional but please provide an example on how to re-create a potential security vulnerability.
-* Android Developers, because **100%** of the code is written in JS  
+* Android Developers, because **100%** of the code is written in Java/Android  
   * You can give anything from security fixes, to code optimization.  
   * I'm also happy if you can point out some edge-cases I didn't notice
   * You can also implement new android OS features to the project (just keep in mind backward compatibility)
